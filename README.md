@@ -1,2 +1,2 @@
-# csharptutorial
-C# Tutorial
+# C Sharp Tutorial
+C# Ders Notları
